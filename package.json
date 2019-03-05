@@ -1,0 +1,10 @@
+{
+  "name": "Alexa-Santhosh Test",
+  "version": "1.0.0",
+  "description": "Santhosh Test skill",
+  "main": "index.js",
+  "author": "Santhosh Ramagiri",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6"
+  }
+}
